@@ -1,0 +1,14 @@
+{
+  "name": "canvas",
+  "repo": "component-has/canvas",
+  "description": "canvas support check.",
+  "version": "0.0.1",
+  "keywords": ["has", "canvas"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  }
+}
