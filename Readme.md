@@ -9,9 +9,11 @@
 
     $ component install component-has/canvas
 
-## API
+## Example
 
-
+```js
+assert('boolean' == typeof require('canvas'));
+```
 
 ## License
 
